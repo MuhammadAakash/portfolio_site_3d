@@ -44,9 +44,9 @@ const Home = () => {
 
   return (
     <section className="w-full h-screen relative">
-      <div className="flex justify-center items-center absolute top-20 left-0 right-0 z-10">
+      {/* <div className="flex justify-center items-center absolute top-20 left-0 right-0 z-10">
         POPUP
-      </div>
+      </div> */}
 
       <Canvas
         className={`w-full h-screen bg-transparent ${
